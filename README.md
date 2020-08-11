@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunji0yi@gmail.com)](mailto:eunji0yi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunji0yi@gmail.com)](mailto:eunji0yi@gmail.com)
 	
