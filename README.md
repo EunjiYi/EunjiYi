@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-informational)  ![](https://img.shields.io/badge/-Java-orange)   ![](https://img.shields.io/badge/-html-9cf)
+- 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-informational)  ![](https://img.shields.io/badge/-Java-orange)   ![](https://img.shields.io/badge/-HTML-9cf)
 - 👯 I’m looking to collaborate on ...   ![](https://img.shields.io/badge/-bright%20ideas%20sharing-blueviolet)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...  ![](https://img.shields.io/badge/-GOAL-FF69B4)
