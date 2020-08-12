@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...  ![](https://img.shields.io/badge/-GOAL-FF69B4)
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunji0yi@gmail.com)](mailto:eunji0yi@gmail.com)
 - 😄 Pronouns:  ![](https://img.shields.io/badge/-yellow%20and%20green-brightgreen)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  ![](https://img.shields.io/badge/-%20Gorgeous-important)
 
 
 
