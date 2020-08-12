@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-informational)  ![](https://img.shields.io/badge/-Java-orange)   ![](https://img.shields.io/badge/-HTML-9cf)
 - 👯 I’m looking to collaborate on ...   ![](https://img.shields.io/badge/-Bright%20Idea%20Sharing-blueviolet)
 - 🤔 I’m looking for help with ...  ![](https://img.shields.io/badge/-lots%20of%20%20challenges-yellow)
-- 💬 Ask me about ...  ![](https://img.shields.io/badge/-GOAL-FF69B4)
+- 💬 Ask me about ...  ![](https://img.shields.io/badge/-GOAL-FF69B4)  ![](https://img.shields.io/badge/-Core%20Values-teal)
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunji0yi@gmail.com)](mailto:eunji0yi@gmail.com)
 - 😄 Pronouns:  ![](https://img.shields.io/badge/-yellow%20and%20green-brightgreen)
 - ⚡ Fun fact: ...  ![](https://img.shields.io/badge/-%20Gorgeous-important)   ![](https://img.shields.io/badge/-enthusiasm-lightgrey)
