@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m really interested in ![](https://img.shields.io/badge/-Data%20Analysis%2FEngineering-blue)  ![](https://img.shields.io/badge/-Machine%20Learning-red)  ![]   ![](https://img.shields.io/badge/-Server-black)
+- 🔭 I’m really interested in ![](https://img.shields.io/badge/-Data%20Analysis%2FEngineering-blue)  ![](https://img.shields.io/badge/-Machine%20Learning-red) ![](https://img.shields.io/badge/-Server-black)
 - 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-teal)  ![](https://img.shields.io/badge/-Java-orange)   ![](https://img.shields.io/badge/-HTML-9cf)   ![](https://img.shields.io/badge/-SQL-ff69b4)
 - 👯 I’m looking to collaborate on ...   ![](https://img.shields.io/badge/-Bright%20Idea%20Sharing-blueviolet)
 - 🤔 I’m looking for help with ...  ![](https://img.shields.io/badge/-lots%20of%20%20challenges-yellow)
