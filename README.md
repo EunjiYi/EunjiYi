@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m really interested in ... ![](https://img.shields.io/badge/-Data%20Engineering-blue)    ![](https://img.shields.io/badge/-Server-black)      ![](https://img.shields.io/badge/-Algorithm-teal)      ![](https://img.shields.io/badge/-Machine%20Learning-red)
-- 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-teal)  ![](https://img.shields.io/badge/-HTML-9cf)   ![](https://img.shields.io/badge/-SQL-ff69b4)   
+- 🌱 I’m currently learning ...  ![](https://img.shields.io/badge/-Python-teal)    ![](https://img.shields.io/badge/-SQL-ff69b4)   ![](https://img.shields.io/badge/-HTML-9cf) 
 - 👯 I’m looking to collaborate on ...   ![](https://img.shields.io/badge/-Bright%20Idea%20Sharing-blueviolet)
 - 🤔 I’m looking for help with ...  ![](https://img.shields.io/badge/-Lots%20of%20Challenges-orange)
 - 💬 Ask me about ...  ![](https://img.shields.io/badge/-GOAL-FF69B4)  ![](https://img.shields.io/badge/-Core%20Values-teal)
