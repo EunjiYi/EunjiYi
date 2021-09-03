@@ -1,5 +1,4 @@
-### Give Me the STAGE,
-### You're not dancing on your own
+### Give Me the STAGE, You're not dancing on your own
 <hr>
 
 ### Hello, This is Eunji 👋
@@ -19,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  ![](https://img.shields.io/badge/-yellow%20and%20green-brightgreen)
 - ⚡ Fun fact: ...  ![](https://img.shields.io/badge/-%20Gorgeous-important)   ![](https://img.shields.io/badge/-enthusiasm-lightgrey)
 
-
-
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
