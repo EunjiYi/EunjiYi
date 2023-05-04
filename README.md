@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns:  ![](https://img.shields.io/badge/-yellow%20and%20green-brightgreen)
 - ⚡ Fun fact: ...  ![](https://img.shields.io/badge/-%20Gorgeous-important)   ![](https://img.shields.io/badge/-enthusiasm-lightgrey)
 
+<hr>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiYi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EunjiYi)](https://github.com/anuraghazra/github-readme-stats) -->
