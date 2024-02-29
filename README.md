@@ -1,7 +1,7 @@
-### Give Me the STAGE, You're not dancing on your own
+### Give me the stage. This is what it feels like to be young.
 <hr>
 
-### Hello, This is Eunji 👋
+### This is Eunji 👋
 
 <!--
 **EunjiYi/EunjiYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
