@@ -1,8 +1,6 @@
 ### Give me the stage. This is what it feels like to be young.
 <hr>
 
-### This is Eunji 👋
-
 <!--
 **EunjiYi/EunjiYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
